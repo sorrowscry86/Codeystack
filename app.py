@@ -6,10 +6,22 @@ Test API for Studio Lite LLM functionality
 from flask import Flask, request, jsonify
 from typing import Dict, Any
 import traceback
+import logging
 
 from llm_providers.factory import LLMProviderFactory
 from llm_providers.base import ChatMessage
 from config.llm_config import LLMConfigManager
+
+# Import version information
+try:
+    from version import __version__, get_version_info
+except ImportError:
+    __version__ = "2.0.0"
+    get_version_info = lambda: {"version": __version__}
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 config_manager = LLMConfigManager()
@@ -18,10 +30,13 @@ config_manager = LLMConfigManager()
 @app.route('/')
 def index():
     """Health check endpoint"""
+    version_info = get_version_info()
     return jsonify({
         'status': 'healthy',
-        'message': 'Studio Lite Multi-LLM Provider API',
-        'available_providers': LLMProviderFactory.get_available_providers()
+        'service': 'VLM Studio Lite Backend',
+        'version': __version__,
+        'build_info': version_info,
+        'message': 'Multi-Agent AI Development Platform Backend is running'
     })
 
 

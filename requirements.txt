@@ -1,16 +1,72 @@
-# Python dependencies for Studio Lite
-crewai
-streamlit
-python-dotenv
-google-generativeai
-openai
-requests
-flask
-langchain
-langchain-openai
-langchain-anthropic
-langchain-google-genai
-langchain-ollama
-langchain-community
-ollama
-lmstudio
+# =============================================================================
+# VLM Studio Lite - Python Dependencies
+# =============================================================================
+# Multi-Agent AI Development Platform with Enhanced Monitoring
+# Compatible with Python 3.11+
+
+# Core Framework Dependencies
+# =============================================================================
+crewai>=0.28.0                    # Multi-agent orchestration framework
+streamlit>=1.45.0                 # Interactive web application framework
+flask>=3.1.0                      # Lightweight backend web framework
+python-dotenv>=1.0.0              # Environment variable management
+
+# LLM Provider Integration
+# =============================================================================
+openai>=1.51.0                    # OpenAI API client
+google-generativeai>=0.8.0        # Google Gemini API client
+anthropic>=0.28.0                 # Anthropic Claude API client
+requests>=2.32.0                  # HTTP library for API calls
+
+# LangChain Ecosystem
+# =============================================================================
+langchain>=0.2.0                  # Core LangChain framework
+langchain-openai>=0.1.0           # OpenAI LangChain integration
+langchain-anthropic>=0.1.0        # Anthropic LangChain integration
+langchain-google-genai>=1.0.0     # Google Gemini LangChain integration
+langchain-ollama>=0.1.0           # Ollama LangChain integration
+langchain-community>=0.2.0        # Community LangChain integrations
+
+# Local Model Support
+# =============================================================================
+ollama>=0.2.0                     # Ollama Python client
+
+# Data Processing & Visualization
+# =============================================================================
+pandas>=2.3.0                     # Data manipulation and analysis
+numpy>=2.2.0                      # Numerical computing
+
+# Development & Monitoring (Optional)
+# =============================================================================
+prometheus-client>=0.16.0         # Metrics collection (optional)
+sentry-sdk[flask]>=1.32.0         # Error tracking (optional)
+flask-caching>=2.1.0              # Response caching (optional)
+
+# Additional Utilities
+# =============================================================================
+pyyaml>=6.0                       # YAML configuration files
+jsonschema>=4.24.0                # JSON schema validation
+tenacity>=9.1.0                   # Retry mechanisms
+packaging>=24.2                   # Version parsing utilities
+
+# =============================================================================
+# Installation Instructions:
+# 
+# Basic installation:
+#   pip install -r requirements.txt
+#
+# Development installation:
+#   pip install -r requirements.txt
+#   pip install pytest black flake8 mypy  # Additional dev tools
+#
+# Production installation:
+#   pip install -r requirements.txt --no-cache-dir
+#
+# =============================================================================
+# 
+# Version Compatibility:
+# - Python: 3.11+ (recommended)
+# - OS: Windows 10+, macOS 10.15+, Linux (Ubuntu 20.04+)
+# - Memory: 4GB RAM minimum, 8GB recommended
+# 
+# =============================================================================
