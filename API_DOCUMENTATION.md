@@ -596,6 +596,8 @@ For API-related questions:
 - **GitHub Issues**: [Report API bugs](https://github.com/sorrowscry86/Codeystack/issues)
 - **Documentation**: [Main README](../README.md)
 - **Examples**: [Example Scripts](../examples/)
+- **Contact**: Wykeve Freeman (Sorrow Eternal) - SorrowsCry86@voidcat.org
+- **Organization**: VoidCat RDC
 
 ---
 

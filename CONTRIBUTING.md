@@ -584,6 +584,14 @@ Every contribution, no matter how small, makes VLM Studio Lite better for everyo
 
 **Ready to contribute?** Check out our [good first issues](https://github.com/sorrowscry86/Codeystack/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) and get started!
 
+## 📞 **Contact**
+
+For questions about contributing:
+- **GitHub Issues**: [Create a new issue](https://github.com/sorrowscry86/Codeystack/issues)
+- **Discussions**: [Join the conversation](https://github.com/sorrowscry86/Codeystack/discussions)
+- **Project Maintainer**: Wykeve Freeman (Sorrow Eternal) - SorrowsCry86@voidcat.org
+- **Organization**: VoidCat RDC
+
 ---
 
 *This contributing guide is based on best practices and will evolve with our community. Suggestions for improvements are always welcome!*

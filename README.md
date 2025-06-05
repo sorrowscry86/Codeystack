@@ -356,6 +356,8 @@ copies or substantial portions of the Software.
 - **Discussions**: [Community discussions and Q&A](https://github.com/sorrowscry86/Codeystack/discussions)
 - **Developer**: [@sorrowscry86](https://github.com/sorrowscry86)
 - **Project**: [Codeystack Repository](https://github.com/sorrowscry86/Codeystack)
+- **Contact**: Wykeve Freeman (Sorrow Eternal) - SorrowsCry86@voidcat.org
+- **Organization**: VoidCat RDC
 
 ---
 

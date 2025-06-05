@@ -190,6 +190,13 @@ Once everything is set up and released:
 4. **📝 Write blog posts** about the development journey
 5. **🍕 Celebrate with the team!**
 
+## 📞 **Contact Information**
+
+**Project Maintainer**: Wykeve Freeman (Sorrow Eternal)  
+**Email**: SorrowsCry86@voidcat.org  
+**Organization**: VoidCat RDC  
+**GitHub**: [@sorrowscry86](https://github.com/sorrowscry86)
+
 ---
 
 **Ready to revolutionize AI agent development? Let's ship it! 🚀**
