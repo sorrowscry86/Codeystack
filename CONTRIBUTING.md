@@ -591,6 +591,7 @@ For questions about contributing:
 - **Discussions**: [Join the conversation](https://github.com/sorrowscry86/Codeystack/discussions)
 - **Project Maintainer**: Wykeve Freeman (Sorrow Eternal) - SorrowsCry86@voidcat.org
 - **Organization**: VoidCat RDC
+- **Support Development**: CashApp $WykeveTF
 
 ---
 

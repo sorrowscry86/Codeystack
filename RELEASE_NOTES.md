@@ -157,6 +157,7 @@ Special thanks to our community contributors, beta testers, and the amazing team
 - **Organization**: VoidCat RDC
 - **GitHub**: [sorrowscry86/Codeystack](https://github.com/sorrowscry86/Codeystack)
 - **Issues**: [Report bugs and request features](https://github.com/sorrowscry86/Codeystack/issues)
+- **Support Development**: CashApp $WykeveTF
 
 ---
 

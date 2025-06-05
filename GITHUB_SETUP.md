@@ -195,7 +195,8 @@ Once everything is set up and released:
 **Project Maintainer**: Wykeve Freeman (Sorrow Eternal)  
 **Email**: SorrowsCry86@voidcat.org  
 **Organization**: VoidCat RDC  
-**GitHub**: [@sorrowscry86](https://github.com/sorrowscry86)
+**GitHub**: [@sorrowscry86](https://github.com/sorrowscry86)  
+**Support Development**: CashApp $WykeveTF
 
 ---
 

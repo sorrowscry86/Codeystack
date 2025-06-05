@@ -358,6 +358,7 @@ copies or substantial portions of the Software.
 - **Project**: [Codeystack Repository](https://github.com/sorrowscry86/Codeystack)
 - **Contact**: Wykeve Freeman (Sorrow Eternal) - SorrowsCry86@voidcat.org
 - **Organization**: VoidCat RDC
+- **Support Development**: CashApp $WykeveTF
 
 ---
 
