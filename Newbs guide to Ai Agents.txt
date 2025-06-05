@@ -1,0 +1,45 @@
+﻿Here's a guide based on the content you uploaded for building AI agents, especially for those who are new to the field:
+
+
+My Guide on What Tools to Use to Build AI Agents (If You Are a Newb) By: laddermanUS
+Welcome to the world of AI! Whether you're just getting started or you're ready to dive into building your own AI agents, this guide is here to make things simpler. I'm an AI engineer working in cybersecurity, and I've worked with a variety of AI tools. I'm here to cut through the hype and provide you with the essentials for starting your AI agent journey.
+1. GPTs (OpenAI GPT Models)
+Best for: Simple, powerful, and easy-to-deploy personal assistants.
+Why use them? For most AI agent tasks, such as personal assistants, GPT models from OpenAI are superb. They are simple to set up and use. There are better models out there, but why reinvent the wheel when OpenAI provides a well-built infrastructure?
+2. n8n (Automation Platform)
+Best for: Building automated workflows and agents that integrate with other tools.
+Why use it? If you need to build an automation or agent that interacts with different tools, n8n is a great option. It's open-source, self-hosted, and more versatile than many other platforms. I highly recommend n8n for its flexibility and ease of use when you want to build integrations.
+Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs
+https://github.com/n8n-io/n8n
+3. CrewAI (Python Framework)
+Best for: Advanced AI agents, especially if you're working with multi-agent systems.
+Why use it? If you're ready to challenge yourself and want to dive into coding, CrewAI is a Pythonic framework that can help you build multi-agent systems. There are other frameworks, but CrewAI is fantastic for creating specialized agents that work together in harmony.
+https://github.com/crewAIInc/crewAI
+
+
+4. CursorAI (Code Editor with AI)
+Best for: Helping you code more efficiently.
+Why use it? Cursor is a code editor that has built-in AI to help you with coding. It’s great for when you need to write code but want an AI assistant to guide you. You can pair it with CrewAI to help you build teams of agents to complete tasks.
+Cursor – Welcome to Cursor
+
+
+
+
+5. Streamlit (UI Framework for Python)
+Best for: Quickly creating user interfaces for Python projects.
+Why use it? If you're working with Python and need a simple UI for your project, Streamlit is perfect. It’s especially useful if you're building something like a chatbot with n8n and want to give it a public-facing UI. Plus, you can use it alongside CursorAI for even faster results.
+Final Thoughts for Newbs
+Remember, building AI agents isn’t magic. It's about understanding that agents are just a few lines of code interacting with LLMs (large language models) and plugging into other tools. Don't overcomplicate things. Start small and gradually build more complex systems as you grow.
+https://docs.streamlit.io/get-started/installation
+
+
+
+
+Helpful Bonus Tools
+Claude/Llama/DeepSeek (alternatives to GPT models)
+Flowise (alternative to n8n)
+Gradio (alternative to Streamlit)
+LangChain/LangGraph/LlamaIndex (more advanced than CrewAI)
+
+
+Save and refer back to this whenever you're ready to experiment with new tools or improve your AI agent skills.

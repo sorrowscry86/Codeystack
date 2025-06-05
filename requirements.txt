@@ -1,0 +1,16 @@
+# Python dependencies for Studio Lite
+crewai
+streamlit
+python-dotenv
+google-generativeai
+openai
+requests
+flask
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-ollama
+langchain-community
+ollama
+lmstudio
